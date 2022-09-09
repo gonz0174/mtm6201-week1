@@ -20,6 +20,8 @@ dt {
 
 dd {
     margin: 0 auto;
+
+    text-decoration: none;
 }
 
 footer {
